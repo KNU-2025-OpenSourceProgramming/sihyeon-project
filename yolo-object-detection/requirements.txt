@@ -1,0 +1,6 @@
+flask
+flask-cors
+ultralytics
+pyngrok
+watchdog
+ultralytics
